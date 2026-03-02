@@ -1,8 +1,5 @@
 
 # Todo-Task-manager
-=======
-# Tasko — Premium Todo App
-
 > A portfolio-grade, fully-featured todo application built with React + Vite.
 
 ![Tasko](https://img.shields.io/badge/React-18-61DAFB?logo=react) ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite) ![Tailwind](https://img.shields.io/badge/Tailwind-3-06B6D4?logo=tailwindcss) ![Framer](https://img.shields.io/badge/Framer%20Motion-11-ff69b4)
