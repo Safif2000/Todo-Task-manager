@@ -39,7 +39,7 @@ const Header = ({ isDark, toggleDark }) => (
       <motion.a
         href="https://github.com/Safif2000/Todo-Task-manager"
         whileHover={{ scale: 1.05 }}
-        whileTap={{ scale: 0.95 }}
+        whileTap={{ scale: 0.95 }} 
         className="tooltip p-2.5 rounded-xl glass-card text-slate-500 dark:text-slate-400
                    hover:text-slate-700 dark:hover:text-slate-200 transition-colors"
         data-tooltip="View Source"

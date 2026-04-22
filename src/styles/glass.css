@@ -330,3 +330,12 @@
   background: rgba(99, 102, 241, 0.2);
   color: inherit;
 }
+
+
+@media (max-width: 375px) {
+ 
+ .lucide-plus.flex-shrink-0 { 
+   margin-left:-8px;
+}
+}
+

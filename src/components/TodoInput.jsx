@@ -125,7 +125,7 @@ const TodoInput = () => {
                      disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none"
           aria-label="Add todo"
         >
-          <Plus size={16} className="relative z-10 flex-shrink-1" />
+          <Plus size={16} className="lucide lucide-plus relative z-10 flex-shrink-0 w-5 h-5 sm:w-4 sm:h-4" />
           <span className="relative z-10 hidden sm:inline">Add</span>
         </motion.button>
       </div>
